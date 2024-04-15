@@ -1,0 +1,18 @@
+.loginRegisterBody{
+    background-color: #28769e;
+}
+.contentDiv{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.contentLeft{
+    padding: 16px;
+    height: 60vh;
+    background-color: #b0b0b0;
+}
+.contentRight{
+    padding: 16px;
+    height: 60vh;
+    background-color: #ffffff;
+}
